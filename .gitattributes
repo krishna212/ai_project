@@ -1,0 +1,4 @@
+ai-sales-predict-dataset-master filter=lfs diff=lfs merge=lfs -text
+CECS551_dataset_02 filter=lfs diff=lfs merge=lfs -text
+Arima_webApp filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
